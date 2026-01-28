@@ -11,11 +11,15 @@ Verwendet ein Runnable - daher KEIN Rückgabewert möglich.
 Siehe Beispiel greetings1 in Controller.java.
 
 ### Mit Executor und z.B. Callable oder Future
-Mit Executors.newVirtualThreadPerTaskExecutor()
+Mit Executors.newVirtualThreadPerTaskExecutor().
+Verwendet ein Future - ermöglicht zugriff auf Rückgabewert.
+Siehe Beispiel greetings2 in Controller.java.
 
 ## Thread local
+...
 
 ## Links
 
 https://docs.oracle.com/en/java/javase/25/core/virtual-threads.html
+https://openjdk.org/jeps/444
 
