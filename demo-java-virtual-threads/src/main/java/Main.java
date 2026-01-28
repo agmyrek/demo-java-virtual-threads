@@ -2,5 +2,5 @@
 
 void main() throws InterruptedException {
     var controller = new Controller();
-    controller.greetings();
+    controller.greetings1();
 }
