@@ -4,7 +4,7 @@
 - Veröffentlicht mit Java 21
 
 ## Wichtige Features
-
+- 
 
 ## Links
 
